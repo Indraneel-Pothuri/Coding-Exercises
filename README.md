@@ -1,4 +1,4 @@
-# Coding-Exercises
+# Coding-Exercise LangExtract – NLP Text Language Extraction Project
 This notebook implements automated extraction of structured language features (entities) from unstructured documents using the langextract library. The main workflow is designed to read document inputs, process them using entity extraction models, and export results for analysis and visualization. This is suitable for use-cases like contract analysis, financial document parsing, and knowledge discovery from text-heavy datasets.
 
 Project Overview
